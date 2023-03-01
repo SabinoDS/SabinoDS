@@ -15,9 +15,13 @@ Daqui pra frente, pretendo começar a gravar conteúdos para expor um pouco mais
   <br/>
   <br/>
 </p>
-
-
 <p align="center">
+  <h align="center">
+    <samp>
+    REDES SOCIAIS!!
+    </samp>
+  <h/>
+  <br/>
   <a href="">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
@@ -25,13 +29,23 @@ Daqui pra frente, pretendo começar a gravar conteúdos para expor um pouco mais
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp"  width="35px" style="margin: 15px;" />
   </a>
 </p>
+  
+  <h align="center">
+    <samp>
+       LINGUAGENS, FRAMEWORK E BIBLIOTECAS: Html | Css | JavaScript | Python | R | Java | React | Laravel | NodeJS | PostgreSQL | SqLite | ... | 
+    </samp>
+  <h/>
+    <br/>
+  <p>
+
+<p> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <p/>  
 
 <br/><br/>
 
-<p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SabinoDS&theme=calm&show_icons=true" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SabinoDS&theme=calm&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinoDS&theme=tokyonight&show_icons=true" />
   
 
 </p>
