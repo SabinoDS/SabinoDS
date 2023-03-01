@@ -12,8 +12,10 @@
   <samp>
     Daqui pra frente, pretendo começar a gravar conteúdos para expor um pouco mais da minha rotina e de repente ajudar pessoas no futuro.
   </samp>
-  <br/><br/>
 </p>
+
+<p>          ----------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------
+<p/> 
 
 <p align="center">
   <h align="center">
