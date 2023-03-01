@@ -21,7 +21,7 @@ Daqui pra frente, pretendo começar a gravar conteúdos para expor um pouco mais
     REDES SOCIAIS!!
     </samp>
   <h/>
-  <br/>
+  <br/><br/>
   <a href="">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
@@ -30,13 +30,14 @@ Daqui pra frente, pretendo começar a gravar conteúdos para expor um pouco mais
   </a>
 </p>
   
-  <h align="center">
+  <p align="center">
     <samp>
-       LINGUAGENS, FRAMEWORK E BIBLIOTECAS: Html | Css | JavaScript | Python | R | Java | React | Laravel | NodeJS | PostgreSQL | SqLite | ... | 
+       LINGUAGENS, FRAMEWORK E BIBLIOTECAS: 
     </samp>
-  <h/>
-    <br/>
-  <p>
+  <p/>
+  <p align="center">
+    Html | Css | JavaScript | Python | R | Java | React | Laravel | NodeJS | PostgreSQL | SqLite | ... | 
+  <p/>
 
 <p> -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <p/>  
